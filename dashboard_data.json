@@ -1,0 +1,280 @@
+﻿{
+    "KPI":  {
+                "TotalRevenue":  9485867.25,
+                "TotalOrders":  8535,
+                "AOV":  1111.41,
+                "AvgRating":  4.21,
+                "AvgDeliveryDays":  2.62,
+                "TotalOriginal":  10000,
+                "TotalCleaned":  8535,
+                "TotalExcluded":  1465,
+                "ExcludedPercent":  14.65
+            },
+    "Monthly":  [
+                    {
+                        "Month":  "2024-01",
+                        "Revenue":  326546.25,
+                        "Orders":  302
+                    },
+                    {
+                        "Month":  "2024-02",
+                        "Revenue":  229951,
+                        "Orders":  235
+                    },
+                    {
+                        "Month":  "2024-03",
+                        "Revenue":  370401.25,
+                        "Orders":  291
+                    },
+                    {
+                        "Month":  "2024-04",
+                        "Revenue":  358756.5,
+                        "Orders":  322
+                    },
+                    {
+                        "Month":  "2024-05",
+                        "Revenue":  346704.5,
+                        "Orders":  278
+                    },
+                    {
+                        "Month":  "2024-06",
+                        "Revenue":  379812.25,
+                        "Orders":  312
+                    },
+                    {
+                        "Month":  "2024-07",
+                        "Revenue":  416912,
+                        "Orders":  319
+                    },
+                    {
+                        "Month":  "2024-08",
+                        "Revenue":  325335.25,
+                        "Orders":  286
+                    },
+                    {
+                        "Month":  "2024-09",
+                        "Revenue":  313700.75,
+                        "Orders":  291
+                    },
+                    {
+                        "Month":  "2024-10",
+                        "Revenue":  418638.75,
+                        "Orders":  363
+                    },
+                    {
+                        "Month":  "2024-11",
+                        "Revenue":  501066.75,
+                        "Orders":  469
+                    },
+                    {
+                        "Month":  "2024-12",
+                        "Revenue":  539150.25,
+                        "Orders":  533
+                    },
+                    {
+                        "Month":  "2025-01",
+                        "Revenue":  409977.75,
+                        "Orders":  340
+                    },
+                    {
+                        "Month":  "2025-02",
+                        "Revenue":  292854.75,
+                        "Orders":  257
+                    },
+                    {
+                        "Month":  "2025-03",
+                        "Revenue":  347758,
+                        "Orders":  315
+                    },
+                    {
+                        "Month":  "2025-04",
+                        "Revenue":  394447.5,
+                        "Orders":  365
+                    },
+                    {
+                        "Month":  "2025-05",
+                        "Revenue":  311362.25,
+                        "Orders":  282
+                    },
+                    {
+                        "Month":  "2025-06",
+                        "Revenue":  369315.75,
+                        "Orders":  317
+                    },
+                    {
+                        "Month":  "2025-07",
+                        "Revenue":  444964.5,
+                        "Orders":  381
+                    },
+                    {
+                        "Month":  "2025-08",
+                        "Revenue":  394726,
+                        "Orders":  341
+                    },
+                    {
+                        "Month":  "2025-09",
+                        "Revenue":  407166.75,
+                        "Orders":  342
+                    },
+                    {
+                        "Month":  "2025-10",
+                        "Revenue":  421976.5,
+                        "Orders":  373
+                    },
+                    {
+                        "Month":  "2025-11",
+                        "Revenue":  573292.25,
+                        "Orders":  613
+                    },
+                    {
+                        "Month":  "2025-12",
+                        "Revenue":  591049.75,
+                        "Orders":  608
+                    }
+                ],
+    "ByChannel":  [
+                      {
+                          "Channel":  "โซเชียลมีเดีย",
+                          "Revenue":  1513167.5,
+                          "Orders":  1320
+                      },
+                      {
+                          "Channel":  "แอปมือถือ",
+                          "Revenue":  3239475,
+                          "Orders":  2930
+                      },
+                      {
+                          "Channel":  "เว็บไซต์",
+                          "Revenue":  3137560.75,
+                          "Orders":  2803
+                      },
+                      {
+                          "Channel":  "หน้าร้าน",
+                          "Revenue":  1595664,
+                          "Orders":  1482
+                      }
+                  ],
+    "ByCategory":  [
+                       {
+                           "Category":  "อิเล็กทรอนิกส์",
+                           "Revenue":  3736900.5,
+                           "Orders":  1797
+                       },
+                       {
+                           "Category":  "แฟชั่น",
+                           "Revenue":  2106130.75,
+                           "Orders":  1740
+                       },
+                       {
+                           "Category":  "บ้านและสวน",
+                           "Revenue":  1264600.5,
+                           "Orders":  874
+                       },
+                       {
+                           "Category":  "ความงาม",
+                           "Revenue":  1037892.5,
+                           "Orders":  1663
+                       },
+                       {
+                           "Category":  "กีฬา",
+                           "Revenue":  582883.5,
+                           "Orders":  679
+                       },
+                       {
+                           "Category":  "อาหารและเครื่องดื่ม",
+                           "Revenue":  428538.5,
+                           "Orders":  1223
+                       },
+                       {
+                           "Category":  "หนังสือและเครื่องเขียน",
+                           "Revenue":  328921,
+                           "Orders":  559
+                       }
+                   ],
+    "ByRegion":  [
+                     {
+                         "Region":  "ภาคกลาง",
+                         "Revenue":  3766417.5,
+                         "Orders":  3391
+                     },
+                     {
+                         "Region":  "ภาคเหนือ",
+                         "Revenue":  1970460.5,
+                         "Orders":  1803
+                     },
+                     {
+                         "Region":  "ภาคตะวันออกเฉียงเหนือ",
+                         "Revenue":  1841776,
+                         "Orders":  1563
+                     },
+                     {
+                         "Region":  "ภาคตะวันออก",
+                         "Revenue":  1024060.25,
+                         "Orders":  957
+                     },
+                     {
+                         "Region":  "ภาคใต้",
+                         "Revenue":  883153,
+                         "Orders":  821
+                     }
+                 ],
+    "ByPayment":  [
+                      {
+                          "Payment":  "พร้อมเพย์",
+                          "Revenue":  4335213,
+                          "Orders":  4038
+                      },
+                      {
+                          "Payment":  "บัตรเครดิต",
+                          "Revenue":  2248107,
+                          "Orders":  2015
+                      },
+                      {
+                          "Payment":  "เก็บเงินปลายทาง",
+                          "Revenue":  1513880,
+                          "Orders":  1262
+                      },
+                      {
+                          "Payment":  "โอนผ่านธนาคาร",
+                          "Revenue":  1212812.75,
+                          "Orders":  1078
+                      },
+                      {
+                          "Payment":  "เงินสด",
+                          "Revenue":  175854.5,
+                          "Orders":  142
+                      }
+                  ],
+    "ByStatus":  [
+                     {
+                         "Status":  "คืนสินค้า",
+                         "Orders":  257
+                     },
+                     {
+                         "Status":  "สำเร็จ",
+                         "Orders":  8220
+                     },
+                     {
+                         "Status":  "ยกเลิก",
+                         "Orders":  58
+                     }
+                 ],
+    "ExcludedBreakdown":  [
+                              {
+                                  "Reason":  "สถานะยกเลิกแต่มีจำนวนวันจัดส่ง",
+                                  "Count":  364
+                              },
+                              {
+                                  "Reason":  "หน้าร้านแต่เก็บเงินปลายทาง (COD)",
+                                  "Count":  402
+                              },
+                              {
+                                  "Reason":  "หน้าร้านสั่งนอกเวลาเปิดทำการ",
+                                  "Count":  501
+                              },
+                              {
+                                  "Reason":  "อายุต่ำกว่าเกณฑ์ทำบัตรเครดิต",
+                                  "Count":  294
+                              }
+                          ]
+}

@@ -1,0 +1,8 @@
+# Temporary scripts
+*.ps1
+check_nulls.ps1
+verify_cleaned.ps1
+generate_json.ps1
+get_sample.ps1
+build_site.ps1
+sample_rows.json
